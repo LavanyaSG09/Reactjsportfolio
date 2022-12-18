@@ -3,7 +3,7 @@ DONE WITH MY PORTFOLIO USING REACTJS
 
 you can view this through,
 
-<a href="https://resume-a09.netlify.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width=50px height=40px></a>
+<a href="https://jovial-tartufo-f45f7e.netlify.app"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width=50px height=40px></a>
 
 
 
